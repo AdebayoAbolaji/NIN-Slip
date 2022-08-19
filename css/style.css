@@ -1,0 +1,50 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+table,
+th,
+td {
+    border-collapse: collapse;
+    border: 2px solid black;
+    margin-top: 100px;
+}
+
+th,
+td {
+    padding: 15px;
+}
+
+table tr th h1,
+table tr th h2,
+table tr th h3 {
+    padding: 0;
+    margin: 0;
+}
+
+
+#kola {
+    margin-left: 50px;
+}
+
+#yemi {
+    margin-left: 35px;
+}
+
+#kunle {
+    margin-left: 20px;
+}
+
+#m {
+    margin-left: 60px;
+}
+
+#nin {
+    margin-left: 100px;
+}
+
+.center {
+    text-align: center;
+
+}
